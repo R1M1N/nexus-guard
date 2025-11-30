@@ -412,34 +412,9 @@ uvicorn app:app --reload --host 0.0.0.0 --port 8080
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-### Documentation
-- [API Documentation](http://localhost:8080/docs)
-- [Deployment Guide](docs/deployment.md)
-- [Configuration Reference](docs/configuration.md)
-- [Security Guide](docs/security.md)
-
-### Community
-- [GitHub Issues](https://github.com/your-org/nexus-guard/issues)
-- [Discussions](https://github.com/your-org/nexus-guard/discussions)
-- [Security Advisories](SECURITY.md)
-
-### Enterprise Support
-For enterprise support, training, and customization:
-- Email: enterprise@nexus-guard.com
-- Website: https://nexus-guard.com/enterprise
 
 ## ⚠️ Disclaimer
 
 This software is designed for defensive cybersecurity purposes and legitimate security testing only. Users are responsible for ensuring compliance with applicable laws and regulations in their jurisdiction. The developers assume no liability for misuse of this software.
 
 ---
-
-**NEXUS GUARD** - Protecting your digital assets with AI-powered security
-
-Made with ❤️ by the NEXUS GUARD Team
