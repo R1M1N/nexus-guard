@@ -1,0 +1,22 @@
+
+# Environment / Logs
+# Machine learning / Data
+# Node/Web
+*.bin
+*.log
+*.pt
+*.pth
+*.pyc
+*.weights
+.env
+.ipynb_checkpoints/
+.next/
+__pycache__/
+checkpoints/
+data/
+dist/
+models/
+node_modules/
+out/
+test_inputs/
+test_outputs/
